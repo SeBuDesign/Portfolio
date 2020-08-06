@@ -1,0 +1,15 @@
+{
+    "name": "sebudesign/portfolio",
+    "description": "Portfolio of Sven Buijsrogge",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sven Buijsrogge",
+            "email": "sven@sebudesign.nl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "eftec/bladeone": "^3.46"
+    }
+}
