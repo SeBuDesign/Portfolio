@@ -1,0 +1,115 @@
+[
+	{
+		"title": "Back-end skills",
+		"skills": [
+			{
+				"years": "7+ years",
+				"label": "PHP"
+			},
+			{
+				"years": "5+ years",
+				"label": "Laravel"
+			},
+			{
+				"years": "3+ years",
+				"label": "Symfony"
+			},
+			{
+				"years": "1+ year",
+				"label": "Go"
+			}
+		]
+	},
+	{
+		"title": "Database skills",
+		"skills": [
+			{
+				"years": "7+ years",
+				"label": "MySQL"
+			},
+			{
+				"years": "3+ years",
+				"label": "NoSQL"
+			},
+			{
+				"years": "2+ years",
+				"label": "MsSQL"
+			}
+		]
+	},
+	{
+		"title": "Front-end skills",
+		"skills": [
+			{
+				"years": "6+ years",
+				"label": "Sass"
+			},
+			{
+				"years": "4+ years",
+				"label": "VueJS"
+			},
+			{
+				"years": "3+ year",
+				"label": "AngularJS/2"
+			},
+			{
+				"years": "1 year",
+				"label": "React"
+			},
+			{
+				"years": "Not much",
+				"label": "Less"
+			}
+		]
+	},
+	{
+		"title": "Other skills",
+		"skills": [
+			{
+				"years": "5+ years",
+				"label": "Redis"
+			},
+			{
+				"years": "3+ years",
+				"label": "MQTT"
+			},
+			{
+				"years": "2+ year",
+				"label": "Elasticsearch"
+			},
+			{
+				"years": "1+ year",
+				"label": "MeiliSearch"
+			},
+			{
+				"years": "1+ year",
+				"label": "RabbitMQ"
+			},
+			{
+				"years": "4+ year",
+				"label": "AWS"
+			},
+			{
+				"years": "5+ year",
+				"label": "Linux"
+			}
+		]
+	},
+	{
+		"title": "Certificates",
+		"skills": [
+			{
+				"years": "2018",
+				"label": "Laravel"
+			},
+			{
+				"years": "2015",
+				"label": "Google Tag Manager"
+			},
+			{
+				"years": "Yearly",
+				"label": "CPR training"
+			}
+		]
+	}
+]
