@@ -31,7 +31,7 @@
 			</div>
 		</div>
 		<div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-			<img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full" src="/images/sven.jpg" srcset="/images/sven.jpg 1x, /images/sven-2x.jpg 2x" alt="Sven Buijsrogge">
+			<img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full" src="images/sven.jpg" srcset="images/sven.jpg 1x, images/sven-2x.jpg 2x" alt="Sven Buijsrogge">
 		</div>
 		</div>
 </header>

@@ -2,8 +2,8 @@
 	{
 		"title": "IVPN | Front- & Back-end",
 		"images": {
-			"1x": "/images/projects/ivpn.jpg",
-			"2x": "/images/projects/ivpn-2x.jpg"
+			"1x": "images/projects/ivpn.jpg",
+			"2x": "images/projects/ivpn-2x.jpg"
 		},
 		"category": "PHP, Go, API, VueJS, Sass, Laravel, Caching, Events",
 		"description": "At IVPN the CTO and I worked on the front- and back-end. They have a legacy PHP back-end for payments, clients, etc. and a Laravel back-end where the website and client area lives. The CTO and I migrated most parts of the legacy PHP back-end to Go which improved performance a lot! I implented 2FA, BitCoin payments and a lot more.",
@@ -12,8 +12,8 @@
 	{
 		"title": "DNS Leak Test | Back-end",
 		"images": {
-			"1x": "/images/projects/dnsleaktest.jpg",
-			"2x": "/images/projects/dnsleaktest-2x.jpg"
+			"1x": "images/projects/dnsleaktest.jpg",
+			"2x": "images/projects/dnsleaktest-2x.jpg"
 		},
 		"category": "Go, Rest API, Networking",
 		"description": "DNS Leak Test was running on a legacy NodeJS server. I have rewritten it in Go, there is a custom DNS server which registers the DNS queries and a VueJS front-end which retrieves the DNS queries. The hard part was to get the DNS responses correct for different types of DNS queries.",
@@ -22,8 +22,8 @@
 	{
 		"title": "License Plate & Parts API | Back-end",
 		"images": {
-			"1x": "/images/projects/go-api.jpg",
-			"2x": "/images/projects/go-api-2x.jpg"
+			"1x": "images/projects/go-api.jpg",
+			"2x": "images/projects/go-api-2x.jpg"
 		},
 		"category": "Go, API, AWS",
 		"description": "I created a Go API that runs on AWS Lambda with AWS Api Gateway with a AWS RDS database that has all license plates of the Netherlands in it. Users can use this API with a API key to retrieve License Plate data like Model, Type, year of fabrication and more. They can use the same API to retrieve parts that are known in the database that belong to that specific vehicle.",
@@ -32,8 +32,8 @@
 	{
 		"title": "Trekhaakcentrum Portal | Front- & Back-end",
 		"images": {
-			"1x": "/images/projects/trekhaakcentrum.jpg",
-			"2x": "/images/projects/trekhaakcentrum-2x.jpg"
+			"1x": "images/projects/trekhaakcentrum.jpg",
+			"2x": "images/projects/trekhaakcentrum-2x.jpg"
 		},
 		"category": "PHP, Go, Laravel, API, AWS, AngularJS, VueJS, Sass",
 		"description": "For Trekhaakcentrum.nl I created their franchise portal, all appointments, quotations and clients come into this centralised portal. Franchises can order products from Trekhaakcentrum.nl and request returns, there are about 8 different Soap, Rest and FTP connections that are used to retrieve all the data for this franchise portal.",
@@ -42,8 +42,8 @@
 	{
 		"title": "Aerialtronics | Front- & Back-end",
 		"images": {
-			"1x": "/images/projects/aerialtronics.jpg",
-			"2x": "/images/projects/aerialtronics-2x.jpg"
+			"1x": "images/projects/aerialtronics.jpg",
+			"2x": "images/projects/aerialtronics-2x.jpg"
 		},
 		"category": "PHP, Laravel, API, AWS, VueJS, Sass",
 		"description": "I have created their main website from a design that they gave me. I have created a client portal where customers that own their professional drones can login and see the manuals and updates for their products. Distributors can also login to get specification documents and marketing material to use when selling the drones.",
@@ -52,8 +52,8 @@
 	{
 		"title": "Van der Valk | Booking Engine",
 		"images": {
-			"1x": "/images/projects/van-der-valk.jpg",
-			"2x": "/images/projects/van-der-valk-2x.jpg"
+			"1x": "images/projects/van-der-valk.jpg",
+			"2x": "images/projects/van-der-valk-2x.jpg"
 		},
 		"category": "PHP, Laravel, API, AWS, Caching, Events, Angular 2, Sass",
 		"description": "With a team of 2 front-end developers, 1 UX designer, me as a back-end developer and the client we created the new booking engine of the largest hotel chain Van der Valk. After our update on average conversions went up by 100%. The main focus was ease of booking and speed. I created the Rest API in Laravel that helped performance a lot as the old one did not have a caching layer.",
@@ -62,8 +62,8 @@
 	{
 		"title": "Jumbo Dagje uit Actie | Ticket Engine",
 		"images": {
-			"1x": "/images/projects/dagjeuitactie.jpg",
-			"2x": "/images/projects/dagjeuitactie-2x.jpg"
+			"1x": "images/projects/dagjeuitactie.jpg",
+			"2x": "images/projects/dagjeuitactie-2x.jpg"
 		},
 		"category": "PHP, Laravel, API, AWS, Caching, AngularJS, Angular 2, Sass",
 		"description": "With a team of 2 front-end developers, 1 UX designer, me as a back-end developer and the client we created a new ticket engine for Jumbo. This is a large campaign in the Netherlands where at all Jumbo supermarkets you can collect coins with QR codes, scann them with an app and use them with your account on the website to order tickets to theme parks, zoo's and a lot more with high discounts.",
@@ -72,8 +72,8 @@
 	{
 		"title": "CloudVPS | Front- & Back-end",
 		"images": {
-			"1x": "/images/projects/cloudvps.jpg",
-			"2x": "/images/projects/cloudvps-2x.jpg"
+			"1x": "images/projects/cloudvps.jpg",
+			"2x": "images/projects/cloudvps-2x.jpg"
 		},
 		"category": "PHP, Laravel, API, Angular 2, Sass",
 		"description": "With a team of 2 front-end developers, 1 UX designer, me as a back-end developer and the client we created a client area for CloudVPS. Users can order a new VPS, manage their VPS'es and more. The back-end talks with OpenStack and creates the VPS'es automatically.",
@@ -82,8 +82,8 @@
 	{
 		"title": "TransIP | Front- & Back-end",
 		"images": {
-			"1x": "/images/projects/transip.jpg",
-			"2x": "/images/projects/transip-2x.jpg"
+			"1x": "images/projects/transip.jpg",
+			"2x": "images/projects/transip-2x.jpg"
 		},
 		"category": "PHP, Javascript, Sass, Networking",
 		"description": "At TransIP I created a drag and drop interface for support engineers to migrate VPS's from one host to another. They could see the load on each host and determine where to put it. I also had a Google Tag Manager course and worked with Marketing to enhance tracking in the website and implement it correctly.",
